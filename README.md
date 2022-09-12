@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/ZslKcKb.png">
 This bot will grind Shoob for you. Written with efficiency, this bot will claim all cards it comes across!
 
-<br>Youtube - https://www.youtube.com/shorts/Voc5RGRKnbA (my webhooks, you see Tier 3 and above claims)
+<br>Youtube - https://www.youtube.com/watch?v=gPfdJNvrlG8
 
 Interested? <br>
 **Telegram Channel** https://t.me/+F8y0vnXJ3ipjNjRh
