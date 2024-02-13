@@ -5,7 +5,7 @@ This bot will grind Shoob for you. Written with efficiency, this bot will claim 
 <br>Youtube - https://www.youtube.com/watch?v=gPfdJNvrlG8
 
 Interested? <br>
-**Telegram Channel** https://t.me/+F8y0vnXJ3ipjNjRh
+Discord Server - https://discord.gg/Ht5Kj2xC
 
 ## Features
 - Auto Card Claimer
